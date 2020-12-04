@@ -6,7 +6,7 @@
 
 <ol>
 <li>Clone the project </li>
-  <code>git clone https://github.com/GalaiJihed/RoadsWebService.git</code>
+  <code>git clone https://github.com/karimbouafif/RoadsWebService.git</code>
 <li>Run this in root directory to install backend nodemodules</li>
   <p> Go to the folder /jwt-express-typeorm and launch </p> </<br>
 <code>npm install</code>
